@@ -38,26 +38,26 @@ A company wants to gain insights into its sales performance and key metrics to i
 -	Average Delivery Days offer insights into the efficiency of logistics and order fulfilment processes.
 -	Analysis of Returned Orders helps gauge customer satisfaction and identify areas for improvement in product quality or customer service.
 
-![image]()
+![image](https://github.com/Hamizah-Nazri/Power-Bi/blob/main/Superstore-5.png)
 
 
 ### 2.	Segment and Market Analysis:
 -	The Pie Chart and Donut Chart illustrate sales distribution by Segment and Market respectively, highlighting areas of strength and opportunities for growth across different segments and markets.
 
-![image]()
+![image](https://github.com/Hamizah-Nazri/Power-Bi/blob/main/Superstore-2.png)
 
 
 ### 3.	Customer Insights:
 -	Identification of top 10 customers aids in recognizing key accounts driving revenue, facilitating targeted sales and retention strategies.
 
-![image]()
+![image](https://github.com/Hamizah-Nazri/Power-Bi/blob/main/Superstore-4.png)
 
 
 ### 4.	Product Performance:
 -	Analysis of top 5 Profit and Loss Products guides product management decisions, focusing on promoting profitable products and addressing issues with low-performing products.
 
 
-![image]()
+![image](https://github.com/Hamizah-Nazri/Power-Bi/blob/main/Superstore-3.png)
 
 ## Conclusion
 This visualization file showcases the actionable insights into various aspects of the company's operations, enabling informed decision-making to drive growth and profitability.
