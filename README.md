@@ -9,7 +9,7 @@ A company wants to gain insights into its sales performance and key metrics to i
  ## Report Snapshot
 
  
-![Superstore Report]()
+![Superstore Report](https://github.com/Hamizah-Nazri/Power-Bi/blob/main/Superstore-1.png)
 
 ## Steps followed 
 #### 1.	Data Collection and Preparation:
