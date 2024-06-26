@@ -1,6 +1,6 @@
 # Power-Bi
 
-# Global Superstore
+# Superstore
 
 ## Problem Statement
 
